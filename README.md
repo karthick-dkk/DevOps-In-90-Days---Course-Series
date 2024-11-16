@@ -50,12 +50,12 @@ Here is a free DevOps Blog Series written on Medium. Also, check out the DevOps 
 - **Day 27**: Troubleshooting Docker: Common Issues and Solutions
 
 ### 🪼Week 6–7: Continuous Integration with Jenkins
-Day 28: What is Jenkins? An Overview of CI/CD
-Day 29: Setting up Jenkins: Installation and Basic Configuration
-Day 30: Creating Your First Jenkins Pipeline
-Day 31: Automating Builds with Jenkins and Git Integration
-Day 32: Jenkins Plugins: Enhancing Your Pipelines
-Day 33: Jenkins Declarative vs Scripted Pipelines
+- Day 28: What is Jenkins? An Overview of CI/CD
+- Day 29: Setting up Jenkins: Installation and Basic Configuration
+- Day 30: Creating Your First Jenkins Pipeline
+- Day 31: Automating Builds with Jenkins and Git Integration
+- Day 32: Jenkins Plugins: Enhancing Your Pipelines
+- Day 33: Jenkins Declarative vs Scripted Pipelines
 Day 34: Jenkins Shared Libraries: DRY Pipelines
 Day 35: Jenkins Pipelines for Docker-based Projects
 Day 36: Setting up Jenkins Master-Slave Architecture
