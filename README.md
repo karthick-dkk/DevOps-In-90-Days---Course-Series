@@ -5,25 +5,25 @@ Here is a free DevOps Blog Series written on Medium. Also, check out the DevOps 
 # DevOps Learning Series
 ==========================
 ### 📅 Week 1–2: Foundations in Linux and Bash Scripting 
-- **Day 1**: Introduction to DevOps and the Importance of Linux  
-- **Day 2**: Basic Linux Commands Every DevOps Engineer Should Know  
-- **Day 3**: Understanding the Linux Filesystem  
-- **Day 4**: User and Permission Management in Linux  
-- **Day 5**: Automating Tasks with Bash Scripts: Part 1  
-- **Day 6**: Automating Tasks with Bash Scripts: Part 2  
-- **Day 7**: Understanding Processes and System Monitoring in Linux  
-- **Day 8**: Networking Basics in Linux: IP, Ports, and Routing  
-- **Day 9**: Disk Management and Filesystem Handling  
-- **Day 10**: Scheduling Tasks with Cron Jobs in Linux  
+- **Day 1**: [Introduction to DevOps and the Importance of Linux ](https://karthidkk123.medium.com/day-1-introduction-to-devops-and-the-importance-of-linux-9ca4efd5b93f) 
+- **Day 2**: [Basic Linux Commands Every DevOps Engineer Should Know](https://karthidkk123.medium.com/basic-linux-commands-every-devops-engineer-should-know-619942ca3d2d)  
+- **Day 3**: [Understanding the Linux Filesystem ](https://medium.com/p/072cd9a4089f) 
+- **Day 4**: [User and Permission Management in Linux ](https://karthidkk123.medium.com/day-4-user-and-permission-management-in-linux-unleashing-your-inner-superuser-8e26b5e4a6ad) 
+- **Day 5**: [Automating Tasks with Bash Scripts: Part 1](https://medium.com/@karthidkk123/day-5-automating-tasks-with-bash-scripts-part-1-e84d0a49daf9)  
+- **Day 6**: [Automating Tasks with Bash Scripts: Part 2](https://medium.com/p/ae38ae7b055a)  
+- **Day 7**: [Understanding Processes and System Monitoring in Linux](https://medium.com/@karthidkk123/day-7-understanding-processes-and-system-monitoring-in-linux-954aa4da25db)  
+- **Day 8**: [Networking Basics in Linux: IP, Ports, and Routing](https://karthidkk123.medium.com/day-8-networking-basics-in-linux-ip-ports-and-routing-4ea9b6a06d1a)  
+- **Day 9**: [Disk Management and Filesystem Handling](https://medium.com/@karthidkk123/day-9-disk-management-and-filesystem-handling-cd3290ed38db)  
+- **Day 10**: [Scheduling Tasks with Cron Jobs in Linux](https://karthidkk123.medium.com/day-10-scheduling-tasks-with-cron-jobs-in-linux-e298d17fc0e9)  
 
 #### Bonus:  
-- Advanced Linux Commands for DevOps Engineers: Part 1  
-- Advanced Linux Commands for DevOps Engineers: Part 2  
-- Advanced Linux Commands for DevOps Engineers: Part 3  
-- Advanced Linux Commands for DevOps Engineers: Part 4  
-- Search Like a Pro: 101-Guide for Find Command  
-- Linux Commands for DevOps & Sysadmins  
-- The Dangerous Linux Commands You Should Never Run in Production (Seriously, Don’t Do It)  
+- [Advanced Linux Commands for DevOps Engineers: Part 1 ](https://medium.com/dev-genius/advanced-linux-commands-for-devops-engineers-part-1-8a4a078abaef) 
+- [Advanced Linux Commands for DevOps Engineers: Part 2](https://blog.devops.dev/advanced-linux-commands-for-devops-engineers-part-2-60f11cee63e0)  
+- [Advanced Linux Commands for DevOps Engineers: Part 3](https://medium.com/system-weakness/advanced-linux-commands-for-devops-engineers-part-3-be102a511efb)  
+- [Advanced Linux Commands for DevOps Engineers: Part 4 ](https://medium.com/devops-dev/advanced-linux-commands-for-devops-engineers-part-4-8c5280f1d469) 
+- [Search Like a Pro: 101-Guide for Find Command ](https://blog.devgenius.io/search-like-a-pro-101-guide-for-find-command-f9f2a19f3ba8) 
+- [Linux Commands for DevOps & Sysadmins ](https://medium.com/devops-dev/linux-commands-for-devops-sysadmins-e8ddcb3a1a75) 
+- [The Dangerous Linux Commands You Should Never Run in Production (Seriously, Don’t Do It)](https://medium.com/@karthidkk123/the-dangerous-linux-commands-you-should-never-run-in-production-seriously-dont-do-it-8400d93be411)  
 
 ### 📚 Week 3: Version Control with Git  
 - **Day 11**: Introduction to Git: Why Version Control is Critical  
