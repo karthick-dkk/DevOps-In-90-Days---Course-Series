@@ -1,19 +1,20 @@
 pipeline {
     agent any
 environment {
-        DOCKER_IMAGE = 'yourdockerhubusername/custom-nginx'
+        DOCKER_IMAGE = 'karthick-devops-day25/custom-nginx'
         DOCKER_TAG = 'v1.0'
     }
     stages {
         stage('Checkout') {
             steps {
                 // Checkout the latest code from your Git repository
-                git 'https://github.com/karthick-dkk/your-nginx-project.git'
+                git 'https://github.com/karthick-dkk/DevOps-In-90-Days---Course-Seriest.git'
             }
         }
         stage('Build Docker Image') {
             steps {
                 script {
+                    sh 'cd project/day25/'
                     // Build the Docker image with a custom Nginx page
                     sh 'docker build -t $DOCKER_IMAGE:$DOCKER_TAG .'
                 }
@@ -36,7 +37,8 @@ environment {
         stage('Clean Up') {
             steps {
                 script {
-                    // Clean up local Docker images to save space
+                    // Clean up local Docker images to save space 
+                    //Optional
                     sh 'docker rmi $DOCKER_IMAGE:$DOCKER_TAG || true'
                 }
             }
