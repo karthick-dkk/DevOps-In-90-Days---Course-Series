@@ -26,13 +26,13 @@ Here is a free DevOps Blog Series written on Medium. Also, check out the DevOps 
 - [The Dangerous Linux Commands You Should Never Run in Production (Seriously, Don’t Do It)](https://medium.com/@karthidkk123/the-dangerous-linux-commands-you-should-never-run-in-production-seriously-dont-do-it-8400d93be411)  
 
 ### 📚 Week 3: Version Control with Git  
-- **Day 11**: Introduction to Git: Why Version Control is Critical  
-- **Day 12**: Git Essentials: How to Set Up and Use Commits, Branches, and Tags  
-- **Day 13**: Working with Remote Repositories: Pushing and Pulling Code  
-- **Day 14**: Git Workflows: Git Flow, Trunk-Based, and Feature Branching  
-- **Day 15**: Handling Merge Conflicts Like a Pro  
-- **Day 16**: Using Git Hooks for Automation  
-- **Day 17**: GitLab CI/CD Pipelines  
+- **Day 11**: [Introduction to Git: Why Version Control is Critical](https://medium.com/@karthidkk123/day-11-introduction-to-git-why-version-control-is-critical-8dd9104d5a7c)  
+- **Day 12**: [Git Essentials: How to Set Up and Use Commits, Branches, and Tags](https://karthidkk123.medium.com/day-12-git-essentials-how-to-set-up-and-use-commits-branches-and-tags-a2c635df1074)  
+- **Day 13**: [Working with Remote Repositories: Pushing and Pulling Code](https://medium.com/@karthidkk123/day-13-working-with-remote-repositories-pushing-and-pulling-code-a0ef1dda932c)  
+- **Day 14**: [Git Workflows: Git Flow, Trunk-Based, and Feature Branching](https://medium.com/@karthidkk123/day-14-git-workflows-git-flow-trunk-based-and-feature-branching-3dae80249079)  
+- **Day 15**: [Handling Merge Conflicts Like a Pro](https://karthidkk123.medium.com/day-15-handling-merge-conflicts-like-a-pro-9ba276254c6f)  
+- **Day 16**: [Using Git Hooks for Automation](https://karthidkk123.medium.com/day-16-using-git-hooks-for-automation-09760a970fbb)  
+- **Day 17**: [GitLab CI/CD Pipelines](https://medium.com/@karthidkk123/day-17-gitlab-ci-cd-pipelines-8ba23b9880cb)  
 
 #### Bonus:  
 - Ultimate Git Commands Cheatsheet: A Complete Guide for Developers  
