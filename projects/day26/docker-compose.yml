@@ -1,0 +1,13 @@
+# Run Nginx via Docker compose
+version: '3.8'   
+services:
+     web:
+       image: nginx
+       ports:
+         - "8080:80"
+       deploy:
+         replicas: 3
+         resources:
+           limits:
+             cpus: "0.5"
+             memory: "512M"
