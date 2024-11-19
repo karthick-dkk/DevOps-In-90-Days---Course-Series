@@ -11,3 +11,5 @@ services:
            limits:
              cpus: "0.5"
              memory: "512M"
+# How to RUN
+# docker stack deploy -c docker-compose.yml web-stack
